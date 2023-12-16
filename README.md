@@ -20,3 +20,5 @@ Assignment2.py
 I got online help for the Regex syntax
 <br>
 Adding New Items need to be added with existing customers and product info.
+<br>
+Happy Holidays <3
